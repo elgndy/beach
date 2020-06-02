@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/elgndy/beach/static/css/main.45ed9aa4.chunk.css",
+    "main.js": "/elgndy/beach/static/js/main.ebe2122d.chunk.js",
+    "main.js.map": "/elgndy/beach/static/js/main.ebe2122d.chunk.js.map",
+    "runtime~main.js": "/elgndy/beach/static/js/runtime~main.40bd46bd.js",
+    "runtime~main.js.map": "/elgndy/beach/static/js/runtime~main.40bd46bd.js.map",
+    "static/js/2.d0615616.chunk.js": "/elgndy/beach/static/js/2.d0615616.chunk.js",
+    "static/js/2.d0615616.chunk.js.map": "/elgndy/beach/static/js/2.d0615616.chunk.js.map",
+    "index.html": "/elgndy/beach/index.html",
+    "precache-manifest.d185bb8700252b3d61993d8da1567c34.js": "/elgndy/beach/precache-manifest.d185bb8700252b3d61993d8da1567c34.js",
+    "service-worker.js": "/elgndy/beach/service-worker.js",
+    "static/css/main.45ed9aa4.chunk.css.map": "/elgndy/beach/static/css/main.45ed9aa4.chunk.css.map",
+    "static/media/default-bac.png": "/elgndy/beach/static/media/default-bac.f83203e4.png",
+    "static/media/details1.png": "/elgndy/beach/static/media/details1.2a7c5842.png",
+    "static/media/details2.png": "/elgndy/beach/static/media/details2.b974031f.png",
+    "static/media/room1.png": "/elgndy/beach/static/media/room1.fc7ca9a6.png",
+    "static/media/room10.png": "/elgndy/beach/static/media/room10.f2c10553.png",
+    "static/media/room13.png": "/elgndy/beach/static/media/room13.7a9deeb3.png",
+    "static/media/room14.png": "/elgndy/beach/static/media/room14.6d09089e.png",
+    "static/media/index.css": "/elgndy/beach/static/media/room9.eca1805d.png",
+    "static/media/room16.png": "/elgndy/beach/static/media/room16.1d750cc7.png",
+    "static/media/room2.png": "/elgndy/beach/static/media/room2.51e2f83e.png",
+    "static/media/room3.png": "/elgndy/beach/static/media/room3.70996090.png",
+    "static/media/room4.png": "/elgndy/beach/static/media/room4.1dd1fab7.png",
+    "static/media/room5.png": "/elgndy/beach/static/media/room5.2df6c5bc.png",
+    "static/media/room7.png": "/elgndy/beach/static/media/room7.ae6504ac.png",
+    "static/media/room8.png": "/elgndy/beach/static/media/room8.42cfdaed.png",
+    "static/media/ved.mp4": "/elgndy/beach/static/media/ved.bf9ddf1a.mp4"
+  }
+}
